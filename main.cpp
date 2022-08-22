@@ -1,4 +1,3 @@
-#include <QCoreApplication>
 #include <windows.h>
 
 int main(int , char *[])
